@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Strongest"
 date:   2015-10-06 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: assets/img/vileplume450x450.png
 ---
 
-![Picture 1](holder.js/500x500?auto=yes)
+![Vileplume](assets/img/vileplume450x450.png){: .center-image}
 
 Don't you think it's kinda funny?
